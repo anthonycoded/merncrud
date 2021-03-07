@@ -1,2 +1,1 @@
-# Webpack-React-Tailwindcss
-Webpack-React-Tailwindcss 
+Mern stack crud application
